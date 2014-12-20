@@ -1,0 +1,21 @@
+{
+  "name": "popcorn-opensubtitles",
+  "version": "0.0.1",
+  "homepage": "",
+  "description": "",
+  "author": {
+    "name": "Popcorn Time"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.popcorntime.io/stash/scm/pt/popcorn-opensubtitles.git"
+  },
+  "dependencies": {
+    "q": "1.0.1",
+    "lodash": "^2.4.1",
+    "xmlrpc": "latest"
+  },
+  "readme": "",
+  "readmeFilename": "README.md"
+}
